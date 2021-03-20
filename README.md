@@ -1,5 +1,5 @@
 # Pytools
-Curso PyTools
+Curso PyTools    [![Build Status](https://travis-ci.org/juliocesar06/pytoos.svg?branch=main)](https://travis-ci.org/juliocesar06/pytoos)
 
 Fork = copia de repositorio
 
@@ -49,6 +49,5 @@ intalaçao das dependencias[requeriments.txt --> pip install -r requirements.txt
 
 format[markdown]
 
-intragraçao travis [![Build Status](https://travis-ci.org/juliocesar06/pytoos.svg?branch=main)](https://travis-ci.org/juliocesar06/pytoos)
-
+intragraçao travis = - criar .travis.yml
 
