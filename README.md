@@ -43,5 +43,10 @@ Topicos do Curso
 
 -api
 
+-requirements : arqivos  com dependências do programa[pip freeze> requirements.txt]
+
+intalaçao das dependencias[requeriments.txt --> pip install -r requirements.txt]
+
+
 
 
