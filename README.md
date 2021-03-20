@@ -50,4 +50,5 @@ intalaçao das dependencias[requeriments.txt --> pip install -r requirements.txt
 format[markdown]
 
 intragraçao travis = - criar .travis.yml
+configurando travis
 
