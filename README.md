@@ -28,4 +28,4 @@ Comandos úteis:
     • git checkout <nome-da-branch>: carrega os arquivos de uma branch especifica
 
 
-curso pythonpro[python pro] (https://www.python.pro.br/)
+curso pythonpro[python pro](https://www.python.pro.br/)
