@@ -19,4 +19,3 @@ if __name__ == '__main__':
 
     nome = input('nome do usuario...:')
     print(buscar_user(nome))
-hjdhfjhdskjfhkdjs
