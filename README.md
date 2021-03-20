@@ -1,7 +1,10 @@
 # Pytools
 Curso PyTools    [![Build Status](https://travis-ci.org/juliocesar06/pytoos.svg?branch=main)](https://travis-ci.org/juliocesar06/pytoos)
+[![Updates](https://pyup.io/repos/github/juliocesar06/pytools/shield.svg)](https://pyup.io/repos/github/juliocesar06/pytools/)
+[![Python 3](https://pyup.io/repos/github/juliocesar06/pytools/python-3-shield.svg)](https://pyup.io/repos/github/juliocesar06/pytools/)
 
 Fork = copia de repositorio
+
 
 pull request= Requerimento para atualizaçao de arquivos colonados com fork
 
@@ -29,7 +32,7 @@ Comandos úteis:
 
    
 
-Curso Python [python pro](https://www.python.pro.br/)
+Curso Python [![python pro]](https://www.python.pro.br/)
 
 Topicos do Curso
 
