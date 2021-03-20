@@ -41,3 +41,7 @@ Topicos do Curso
 
 -gitgnore : ignora arquivos listados nele
 
+-api
+
+
+
