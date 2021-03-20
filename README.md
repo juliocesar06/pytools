@@ -47,6 +47,8 @@ Topicos do Curso
 
 intalaçao das dependencias[requeriments.txt --> pip install -r requirements.txt]
 
-intragraçao travis (https://travis-ci.com/juliocesar06/pytoos.svg?branch=main)
+format[markdown]
+
+intragraçao travis [![Build Status](https://travis-ci.org/juliocesar06/pytoos.svg?branch=main)](https://travis-ci.org/juliocesar06/pytoos)
 
 
