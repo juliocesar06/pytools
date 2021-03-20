@@ -27,5 +27,17 @@ Comandos úteis:
 
     • git checkout <nome-da-branch>: carrega os arquivos de uma branch especifica
 
+   
 
-curso pythonpro[python pro] (https://www.python.pro.br/)
+Curso Python [python pro](https://www.python.pro.br/)
+
+Topicos do Curso
+
+-Git : repositorio de códigos
+
+-virtualenv: Ambiente virtual
+
+-pip: instalador de pacotes
+
+-gitgnore : ignora arquivos listados nele
+
