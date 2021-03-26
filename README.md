@@ -32,7 +32,7 @@ Comandos úteis:
 
    
 
-Curso Python [![python pro]](https://www.python.pro.br/)
+Curso Python [python pro](https://www.python.pro.br/)
 
 Topicos do Curso
 
@@ -54,4 +54,5 @@ format[markdown]
 
 intragraçao travis = - criar .travis.yml
 configurando travis
+integraçao pyup
 

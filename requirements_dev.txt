@@ -3,4 +3,16 @@ mccabe==0.6.1
 pycodestyle==2.7.0
 pyflakes==2.3.0
 virtualenv==20.4.3
--r requirements.txt
+
+py==1.8.2
+pluggy==0.1
+atomicwrites==1.4.0
+packaging==20.9
+iniconfig==1.1.1
+attrs==20.3.0
+colorama==0.4.4
+pyparsing==2.0.2
+
+
+
+r requirements.txt
