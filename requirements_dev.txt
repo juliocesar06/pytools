@@ -12,6 +12,9 @@ iniconfig==1.1.1
 attrs==20.3.0
 colorama==0.4.4
 pyparsing==2.0.2
+pytest-cov==2.11.1
+coverage==5.5
+
 
 
 
