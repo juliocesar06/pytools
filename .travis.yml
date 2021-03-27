@@ -1,7 +1,10 @@
 language: python
 python:
--3.9
+ -3.9
 install:
- -pip install -r requirements_dev.txt
+ -pip install -r requirements_dev.txt codecov
 script:
--flake8
+ -flake8
+ -pytest pytools --cov=pytools
+after_sucess:
+  -codecov
