@@ -2,8 +2,8 @@
 Curso PyTools    [![Build Status](https://travis-ci.org/juliocesar06/pytoos.svg?branch=main)](https://travis-ci.org/juliocesar06/pytoos)
 [![Updates](https://pyup.io/repos/github/juliocesar06/pytools/shield.svg)](https://pyup.io/repos/github/juliocesar06/pytools/)
 [![Python 3](https://pyup.io/repos/github/juliocesar06/pytools/python-3-shield.svg)](https://pyup.io/repos/github/juliocesar06/pytools/)
-
-Fork = copia de repositorio
+[![codecov](https://codecov.io/gh/juliocesar06/pytools/branch/main/graph/badge.svg?token=O6UUHYMJ6O)](https://codecov.io/gh/juliocesar06/pytools)
+Fork = copia de repositorio,colocando codecov
 
 
 pull request= Requerimento para atualizaçao de arquivos colonados com fork
